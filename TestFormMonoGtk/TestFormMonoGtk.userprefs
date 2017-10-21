@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7767B1B0-8250-4C7D-BF85-39F959218267}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestFormMonoGtk/MainWindow.cs">
+    <Files>
+      <File FileName="TestFormMonoGtk/Program.cs" Line="15" Column="6" />
+      <File FileName="TestFormMonoGtk/MainWindow.cs" Line="16" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

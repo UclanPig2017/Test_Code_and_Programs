@@ -1,0 +1,8 @@
+/home/sulaymaan/Projects/TestFormMonoGtk/TestFormMonoGtk/bin/Debug/TestFormMonoGtk.exe
+/home/sulaymaan/Projects/TestFormMonoGtk/TestFormMonoGtk/bin/Debug/TestFormMonoGtk.pdb
+/home/sulaymaan/Projects/TestFormMonoGtk/TestFormMonoGtk/obj/x86/Debug/TestFormMonoGtk.csproj.CoreCompileInputs.cache
+/home/sulaymaan/Projects/TestFormMonoGtk/TestFormMonoGtk/obj/x86/Debug/TestFormMonoGtk.exe
+/home/sulaymaan/Projects/TestFormMonoGtk/TestFormMonoGtk/obj/x86/Debug/TestFormMonoGtk.pdb
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\TestFormMonoGtk\TestFormMonoGtk\obj\x86\Debug\TestFormMonoGtk.exe
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\TestFormMonoGtk\TestFormMonoGtk\obj\x86\Debug\TestFormMonoGtk.pdb
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\TestFormMonoGtk\TestFormMonoGtk\obj\x86\Debug\TestFormMonoGtk.csprojResolveAssemblyReference.cache
