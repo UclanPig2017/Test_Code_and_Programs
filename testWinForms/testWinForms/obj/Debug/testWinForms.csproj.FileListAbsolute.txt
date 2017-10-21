@@ -7,3 +7,6 @@ c:\users\sulaymaan\documents\visual studio 2015\Projects\testWinForms\testWinFor
 c:\users\sulaymaan\documents\visual studio 2015\Projects\testWinForms\testWinForms\obj\Debug\testWinForms.csproj.GenerateResource.Cache
 c:\users\sulaymaan\documents\visual studio 2015\Projects\testWinForms\testWinForms\obj\Debug\testWinForms.exe
 c:\users\sulaymaan\documents\visual studio 2015\Projects\testWinForms\testWinForms\obj\Debug\testWinForms.pdb
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\testWinForms\testWinForms\bin\Debug\testWinForms.exe.config
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\testWinForms\testWinForms\obj\Debug\testWinForms.exe
+C:\Users\Sulaymaan\Documents\GitHub\Test_Code_and_Programs\testWinForms\testWinForms\obj\Debug\testWinForms.pdb
