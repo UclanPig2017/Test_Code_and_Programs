@@ -26,7 +26,7 @@ public partial class MainWindow : Gtk.Window
         else
         {
 			//Else, retrieve name and output to txtHello text container as below
-			txtHello.Buffer.Text = "Hello " + TxtName.Text +"!";
+			txtHello.Buffer.Text = "Hello " + TxtName.Text + "!";
         }
     }
 }
