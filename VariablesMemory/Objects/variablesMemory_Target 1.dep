@@ -1,0 +1,14 @@
+Dependencies for Project 'variablesMemory', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x58862C04)(--c99 -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE"-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE\Device\STM32F103RE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574EA096)
+F (RTE\Device\STM32F103RE\RTE_Device.h)(0x56FA40CC)()
+F (RTE\Device\STM32F103RE\startup_stm32f10x_hd.s)(0x4F1E90AC)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE"-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE\Device\STM32F103RE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103RE\system_stm32f10x.c)(0x4F1E90AC)(--c99 -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE"-I "I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE\Device\STM32F103RE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA6FD0)
+I (I:\My Documents\uVision\Year 3\EL3243\VariablesMemory\RTE\RTE_Components.h)(0x58861BA2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
