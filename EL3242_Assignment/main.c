@@ -29,6 +29,7 @@ int main (void) {
   // example: tid_name = osThreadCreate (osThread(name), NULL);
 	Init_Output();
 	Init_Timers();
-	
+
+ //Start it up
   osKernelStart ();                         // start thread execution 
 }
