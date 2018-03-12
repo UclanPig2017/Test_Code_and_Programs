@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'EL3243_Assignment_SullySidney' 
+ * Project: 'SigGen_SShaikh_SOOttopah' 
  * Target:  'Target 1' 
  */
 

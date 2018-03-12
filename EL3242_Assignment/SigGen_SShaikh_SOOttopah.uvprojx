@@ -48,7 +48,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>EL3243_Assignment_SullySidney</OutputName>
+          <OutputName>SigGen</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>0</CreateHexFile>
@@ -111,11 +111,11 @@
           <SimDllName>SARMCM3.DLL</SimDllName>
           <SimDllArguments> -REMAP</SimDllArguments>
           <SimDlgDll>DARMSTM.DLL</SimDlgDll>
-          <SimDlgDllArguments>--pSTM32F103RE</SimDlgDllArguments>
+          <SimDlgDllArguments>-pSTM32F103RE</SimDlgDllArguments>
           <TargetDllName>SARMCM3.DLL</TargetDllName>
           <TargetDllArguments></TargetDllArguments>
           <TargetDlgDll>TARMSTM.DLL</TargetDlgDll>
-          <TargetDlgDllArguments>--pSTM32F103RE</TargetDlgDllArguments>
+          <TargetDlgDllArguments>-pSTM32F103RE</TargetDlgDllArguments>
         </DllOption>
         <DebugOption>
           <OPTHX>
@@ -186,7 +186,7 @@
             <hadIRAM2>0</hadIRAM2>
             <hadIROM2>0</hadIROM2>
             <StupSel>8</StupSel>
-            <useUlib>1</useUlib>
+            <useUlib>0</useUlib>
             <EndSel>0</EndSel>
             <uLtcg>0</uLtcg>
             <nSecure>0</nSecure>
@@ -384,19 +384,19 @@
               <FilePath>.\main.c</FilePath>
             </File>
             <File>
-              <FileName>OutputDACThread.c</FileName>
+              <FileName>Thread.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\OutputDACThread.c</FilePath>
-            </File>
-            <File>
-              <FileName>OutputLEDThread.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\OutputLEDThread.c</FilePath>
+              <FilePath>.\Thread.c</FilePath>
             </File>
             <File>
               <FileName>Timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Timer.c</FilePath>
+            </File>
+            <File>
+              <FileName>Thread2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Thread2.c</FilePath>
             </File>
           </Files>
         </Group>
